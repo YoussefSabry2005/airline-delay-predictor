@@ -103,7 +103,7 @@ airline-delay-predictor/
 **Youssef Sabry**
 - 📍 Edmonton, Alberta, Canada
 - 🎓 BSc Data Science — MacEwan University (Graduating Winter 2028)
-- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-sabry)
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-sabry22/)
 - 🐙 [GitHub](https://github.com/YoussefSabry2005)
 
 ---
